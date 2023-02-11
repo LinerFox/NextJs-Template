@@ -1,0 +1,2 @@
+# NextJs-Template
+NextJS Template
